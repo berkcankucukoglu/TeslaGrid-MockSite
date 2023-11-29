@@ -1,5 +1,3 @@
-/* Navigation */
-
 #main-nav .social {
   display: none;
 }
@@ -65,5 +63,10 @@
 
   .l-heading {
     font-size: 2rem;
+  }
+
+  #article .page-container #join-cta,
+  #about .page-container > aside {
+    display: none;
   }
 }
